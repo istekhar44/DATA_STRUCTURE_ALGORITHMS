@@ -38,5 +38,10 @@ if (a>b){
 // loops
 // there are three types of loop in c++
 // for, while, and do-while. 
+int ;
+    cin>> n;
+    if(n%2==0){
+        cout<<"even"<<endl;
+        return 0;
 
 }
